@@ -15,4 +15,4 @@ Dogs: 1000, Cats: 1000, Pandas: 1000
 
 Go through "Report.pdf" to get a clear picture of algorithm that I coded.
 
-Note: Tried to avoid coding with in-built functions to improve the real coding experience.
+Note: Everything is developed from scratch without using any inbuilt function.
